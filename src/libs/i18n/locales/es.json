@@ -187,7 +187,11 @@
     "Real Data": "Datos Reales",
     "Productive Management": "Gerencia Productivas",
     "Productive Areas": "Áreas Productivas",
-    "Owner": "Titular"
-
+    "Owner": "Titular",
+    "Home":"Inicio",
+    "Configuration Center": "Configuracion de Centro",
+    "Configuration Sensors": "Configuracion de Sensores",
+    "Configuration Parameters": "Configuracion de Parametros",
+    "Masters": "Maestros"
   }
   

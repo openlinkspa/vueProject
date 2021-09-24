@@ -37,7 +37,7 @@ export default {
       { title: 'Coming Soon', route: { name: 'misc-coming-soon' }, icon: 'ClockIcon', isBookmarked: false },
       { title: 'Context Menu', route: { name: 'extensions-context-menu' }, icon: 'MoreVerticalIcon', isBookmarked: false },
       { title: 'Dashboard Analytics', route: { name: 'dashboard-analytics' }, icon: 'ActivityIcon', isBookmarked: false },
-      { title: 'Dashboard ECommerce', route: { name: 'dashboard-ecommerce' }, icon: 'ShoppingCartIcon', isBookmarked: false },
+      { title: 'Dashboard ECommerce', route: { name: 'inicio' }, icon: 'ShoppingCartIcon', isBookmarked: false },
       { title: 'Date Time Picker', route: { name: 'extensions-date-time-picker' }, icon: 'ClockIcon', isBookmarked: false },
       { title: 'Drag & Drop', route: { name: 'extensions-drag-and-drop' }, icon: 'CopyIcon', isBookmarked: false },
       { title: 'Dropdown', route: { name: 'components-dropdown' }, icon: 'MoreHorizontalIcon', isBookmarked: false },
